@@ -1,2 +1,3 @@
-# day-2-task
-GUVI Day 2 task 
+### Task Day: 2
+
+ # Write a blog on the difference between Document and Window objects?
